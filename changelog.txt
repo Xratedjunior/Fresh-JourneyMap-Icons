@@ -1,6 +1,9 @@
 1.21.8 Changelog
-1.0
+Version 1
 ====
+ - 1.1
+	+ Added Textures:
+		Variant for a charging Vex
  - 1.0
 	+ Added Mobs:
 		All Vanilla Mobs in Minecraft 1.21.8
